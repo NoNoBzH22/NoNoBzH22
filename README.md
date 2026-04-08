@@ -17,6 +17,7 @@ Bienvenue sur mon profil GitHub ! J'aime concevoir des outils pour faciliter l'a
 - 🤖 J'ai également une forte expérience dans la création, le développement et la gestion de **Bots Discord**.
 - 🌱 J'explore en permanence les meilleures pratiques autour de **Python**, **JavaScript**, et **Node.js**.
 - 📫 Pour me contacter : [LinkedIn](https://www.linkedin.com/in/nolhan-trehel)
+- Mon site internet : [Site Personnel](https://nolhantirer.space)
 
 ## 🛠️ Stack Technique & Outils
 
